@@ -18,7 +18,7 @@
 import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
-project = '学习笔记'
+project = 'JSQU个人博客'
 copyright = '2021, 屈金山'
 author = '屈金山'
 
@@ -68,6 +68,6 @@ html_static_path = ['_static']
 
 # (Optional) Logo. Should be small enough to fit the navbar (ideally 24x24).
 # Path should be relative to the ``_static`` files directory.
-html_logo = "logo.jpg"
+html_logo = "logo.png"
 
 latex_engine = 'xelatex'
